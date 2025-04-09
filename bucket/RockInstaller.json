@@ -12,6 +12,6 @@
         }
     }
     "post_install": [
-        ".\Rockstar-Games-Launcher" 
+        'Start-Process -FilePath ".\Rockstar-Games-Launcher" '
     ]
 }
