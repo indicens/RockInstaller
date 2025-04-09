@@ -11,6 +11,9 @@
             "hash": ""
         }
     },
+    "installer": {
+      "script": "$dir\\$fname"  
+    },
     "bin": [
         "Rockstar-Games-Launcher.exe"
     ]
