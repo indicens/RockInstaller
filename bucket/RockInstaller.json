@@ -12,6 +12,6 @@
         }
     }
     "post_install": [
-        "Invoke-Expression "& \"C:\path\to\your\file.exe\""" 
+        ".\Rockstar-Games-Launcher" 
     ]
 }
