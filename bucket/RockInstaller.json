@@ -11,7 +11,7 @@
             "hash": ""
         }
     }
-    "post_install": [
-        'Start-Process -FilePath ".\Rockstar-Games-Launcher" '
+    "bin": [
+        "Rockstar-Games-Launcher.exe"
     ]
 }
