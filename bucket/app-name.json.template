@@ -1,63 +1,14 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "",
-    "description": "",
-    "homepage": "",
-    "license": "",
-    "notes": "",
+    "version": "1.0",
+    "description": "ni",
+    "homepage": "https://www.rockstargames.com/",
+    "license": "MIT",
+    "notes": "df",
     "architecture": {
         "64bit": {
-            "url": "",
-            "hash": ""
-        },
-        "32bit": {
-            "url": "",
-            "hash": ""
-        },
-        "arm64": {
-            "url": "",
-            "hash": ""
-        }
-    },
-    "pre_install": "",
-    "installer": {
-        "script": ""
-    },
-    "post_install": [
-        "",
-        ""
-    ],
-    "uninstaller": {
-        "script": ""
-    },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
-    ],
-    "persist": [
-        "",
-        ""
-    ],
-    "checkver": {
-        "url": "",
-        "regex": ""
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": ""
-            },
-            "32bit": {
-                "url": ""
-            },
-            "arm64": {
-                "url": ""
-            }
-        },
-        "hash": {
-            "url": "",
-            "regex": ""
+            "url": "https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe?_gl=1*10y3rt1*_gcl_au*MTU2NDYyNDM0OS4xNzQ0MjE4NjIx*_ga*MTYxNTU3MzA3Mi4xNzQ0MjE4NjEx*_ga_PJQ2JYZDQC*MTc0NDIxODYxMS4xLjEuMTc0NDIxODc0MC4wLjAuMA..",
+            # "hash": ""
         }
     }
 }
