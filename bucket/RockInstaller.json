@@ -12,8 +12,8 @@
         }
     },
 
-    "post-install": {
-      "Rockstar-Games-Launcher.exe"  
+    "installer": {
+      "file": "Rockstar-Games-Launcher.exe"  
     },
     "bin": [
         "Rockstar-Games-Launcher.exe"
