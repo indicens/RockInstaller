@@ -13,7 +13,7 @@
     },
 
     "installer": {
-      "file": "Rockstar-Games-Launcher.exe"  
+        "file": "Rockstar-Games-Launcher.exe"
     },
     "bin": [
         "Rockstar-Games-Launcher.exe"
