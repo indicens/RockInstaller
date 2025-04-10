@@ -14,6 +14,7 @@
 
     "installer": {
         "file": "Rockstar-Games-Launcher.exe"
+        "keep": "True"
     },
     "bin": [
         "Rockstar-Games-Launcher.exe"
